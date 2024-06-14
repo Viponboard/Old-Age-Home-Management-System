@@ -10,14 +10,14 @@
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5. Create a database with the name oahmsdb
+5. Create a database with the name AAIVRUDHASHRAM
 
 6. Import oahmsdb.sql file(given inside the zip package in the SQL file folder)
 
-7. Run the script http://localhost/oahms
+7. Run the script http://localhost/AaiVrudhashram
 
 Admin Credential
 Username: admin
-Password: Test@123
+Password: Vipul@123
 
 
